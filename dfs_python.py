@@ -9,7 +9,7 @@ GRAY = 1
 # Finished
 BLACK = 2
 
-# THE BELOW 2 DATA STRUCTURES (Graph and DFSINnfo) ARE NOT MY CODE
+# THE BELOW 2 DATA STRUCTURES ARE NOT MY CODE (Graph and DFSINnfo)
 
 # Data structure for representing a graph
 class Graph():
