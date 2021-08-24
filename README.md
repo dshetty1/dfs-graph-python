@@ -1,2 +1,11 @@
 # dfs-graph-python
-Depth First Search on a Graph in Python
+### Description
+
+
+
+Depth first search algorithm in python to find 
+
+
+
+
+
